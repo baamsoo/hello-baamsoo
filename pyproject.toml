@@ -3,7 +3,7 @@ name = "hello-baamsoo"
 version = "0.2.0"
 description = "python program"
 authors = [
-    {name = "baamboo", email = "beom5236@gmail.com"}
+    {name = "baamboo", email = "beom5236@gmail.com"},
 ]
 dependencies = []
 requires-python = ">=3.8"
@@ -13,3 +13,17 @@ license = {text = "MIT"}
 [build-system]
 requires = ["pdm-backend"]
 build-backend = "pdm.backend"
+
+[tool.pdm.dev-dependencies]
+test = [
+    "pytest>=7.4.2",
+    "pytest-cov>=4.1.0",
+]
+
+[project.scripts]
+hello-baamsoo-pic = 'hello_baamsoo.my:pic'
+
+
+[project.urls]
+"Homepage" = "https://github.com/baamsoo/hello-baamsoo"
+"Bug Tracker" = "https://github.com/baamsoo/hello-baamsoo/issues"
