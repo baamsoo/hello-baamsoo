@@ -23,7 +23,6 @@ test = [
 [project.scripts]
 hello-baamsoo-pic = 'hello_baamsoo.my:pic'
 
-
 [project.urls]
 "Homepage" = "https://github.com/baamsoo/hello-baamsoo"
 "Bug Tracker" = "https://github.com/baamsoo/hello-baamsoo/issues"
