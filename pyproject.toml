@@ -1,6 +1,6 @@
 [project]
 name = "hello-baamsoo"
-version = "0.2.0"
+version = "0.2.1"
 description = "python program"
 authors = [
     {name = "baamboo", email = "beom5236@gmail.com"},
@@ -22,7 +22,6 @@ test = [
 
 [project.scripts]
 hello-baamsoo-pic = 'hello_baamsoo.my:pic'
-
 
 [project.urls]
 "Homepage" = "https://github.com/baamsoo/hello-baamsoo"
