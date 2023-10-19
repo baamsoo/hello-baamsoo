@@ -1,5 +1,8 @@
 # Hello-baamsoo
 
+![62f9a36ea3cea](https://github.com/baamsoo/hello-baamsoo/assets/135572929/d652f3e2-1deb-4db9-b189-1ee45ea94a3b)
+
+
 ### INSTALL
 ```bash
 $ pip install hello-baamsoo
