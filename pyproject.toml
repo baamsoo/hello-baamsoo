@@ -5,7 +5,8 @@ description = "python program"
 authors = [
     {name = "baamboo", email = "beom5236@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+]
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
