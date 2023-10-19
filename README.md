@@ -1,6 +1,7 @@
 # Hello-baamsoo
 
-![62f9a36ea3cea](https://github.com/baamsoo/hello-baamsoo/assets/135572929/d652f3e2-1deb-4db9-b189-1ee45ea94a3b)
+![image](https://github.com/baamsoo/hello-baamsoo/assets/135572929/cdd34687-0d67-419c-b73e-45bfd0d24e0f)
+
 
 
 ### INSTALL
